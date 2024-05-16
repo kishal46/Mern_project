@@ -1,0 +1,41 @@
+.services-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .services-list {
+    display: grid;
+    grid-gap: 20px;
+  }
+  
+  .service {
+    background-color: #3e6f7e60;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service h2 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .service p {
+    color: #666;
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  @media (min-width: 768px) {
+    .services-list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  #appointment{
+    width: 200px;
+  }
+  #appointment a{
+    color: white;
+  }

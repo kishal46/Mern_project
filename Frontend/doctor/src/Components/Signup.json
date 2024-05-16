@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": "8217"
+    },
+    {
+      "id": "586e",
+      "name": "kishal",
+      "email": "kishal@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "eafb",
+      "name": "vasanth",
+      "email": "v@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e3ee",
+      "name": "MOWRISH",
+      "email": "m@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a684",
+      "name": "admin",
+      "email": "k@1234",
+      "password": "kishal"
+    },
+    {
+      "id": "7cae",
+      "name": "admin",
+      "email": "kishal@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "9cb8",
+      "name": "vicky",
+      "email": "vk@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "8b58",
+      "name": "kishal",
+      "email": "kishal57j@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

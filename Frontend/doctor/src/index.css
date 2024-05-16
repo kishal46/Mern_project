@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Container{
+    width: 100vw;
+    min-height: 100vh;
+    background-color:#fff;
+    transition: 0.5s;
+    
+}
+body{
+    animation: changeColor 15s infinite;
+}
+@keyframes changeColor {
+    0% { background-color: #a4d4f5; } /* Start color */
+    50% { background-color: #faf9cd; } /* Middle color */
+    100% { background-color: #ffc1c1; } /* End color */
+  }

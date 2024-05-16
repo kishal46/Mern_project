@@ -1,0 +1,67 @@
+{
+  "Doctor": [
+    {
+      "id": "9939",
+      "location": "Saravanampatti",
+      "Hospitals": "KG",
+      "doctorName": "kishal",
+      "qualification": "Bachelor of science in nursing",
+      "specialist": "Eye",
+      "timing": "2 PM - 4 PM"
+    },
+    {
+      "id": "6776",
+      "location": "Gandhipuram",
+      "Hospitals": "KG",
+      "doctorName": "kishal",
+      "qualification": "Bachelor of science in nursing",
+      "specialist": "Heart",
+      "timing": "10 AM - 12 AM"
+    },
+    {
+      "id": "f93c",
+      "location": "Saravanampatti",
+      "Hospitals": "KMCH",
+      "doctorName": "kishal",
+      "qualification": "Bachelor of science in nursing",
+      "specialist": "LIVER UNIT",
+      "timing": "2 PM - 4 PM"
+    },
+    {
+      "id": "83d4",
+      "location": "Saravanampatti",
+      "Hospitals": "GRD",
+      "doctorName": "Pandi",
+      "qualification": "Doctor of dental medicine",
+      "specialist": "NEUROLOGY",
+      "timing": "10 AM - 12 AM"
+    },
+    {
+      "id": "5cdc",
+      "location": "Saravanampatti",
+      "Hospitals": "KG",
+      "doctorName": "Ram",
+      "qualification": "Gynecologist",
+      "specialist": "HAEMATOLOGY",
+      "timing": "4 PM - 6 PM"
+    },
+    {
+      "id": "2d90",
+      "location": "Gandhipuram",
+      "Hospitals": "KMCH",
+      "doctorName": "Rajesh",
+      "qualification": "Doctor of medicine",
+      "specialist": "DENTAL",
+      "timing": "8 AM - 10 AM"
+    },
+    {
+      "id": "56b8",
+      "location": "Gandhipuram",
+      "Hospitals": "GANGA",
+      "doctorName": "Ramesh",
+      "qualification": "Doctor of Philosophy",
+      "specialist": "NEURO SURGERY",
+      "timing": "8 AM - 10 AM"
+    }
+  ]
+}
